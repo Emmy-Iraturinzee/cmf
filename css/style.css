@@ -325,6 +325,8 @@ header.smaller #mainmenu ul ul {
   top: 0px;
 }
 
+
+
 header.smaller {
   position: fixed;
   top: 0px;
@@ -404,7 +406,17 @@ header.smaller #topbar.topbar-dark a {
 header .logo-mobile {
   display: none;
 }
-
+@media screen and (max-width: 768px) {
+  #hero-sec-text{
+  
+font-size: 40px!important;
+margin-top: 50px!important;
+  }
+  #menu-btn{
+color: black!important;
+  }
+  
+}
 
 header.smaller.scroll-light {
   background: #ffffff;
