@@ -150,7 +150,7 @@ Table of content:
 
 /* base background color */
 .bg-color{background: var(--primary-color)}
-.bg-color-2{background: var(--secondary-color)}
+.bg-color-2{background:#5D0073}
 .bg-light{background: var(--bg-light) !important}
 .bg-dark,.bg-dark-1{background-color: var(--bg-dark-1) !important}
 .bg-dark-2{background-color: var(--bg-dark-2) !important}
@@ -417,6 +417,7 @@ color: black!important;
   }
   
 }
+
 
 header.smaller.scroll-light {
   background: #ffffff;
@@ -3122,6 +3123,7 @@ a.btn-dark.btn-id {
   padding: 5px 20px 5px 20px;
   font-weight: bold;
   text-transform: uppercase;
+ 
 }
 
 .btn-fx.btn-main {
@@ -3194,7 +3196,7 @@ a.btn-line,
 
 a.btn-main.fx-slide{
   overflow: hidden;
-  background-color:#0a8fe1;
+  background-color: #5D0073;
  
 }
 
