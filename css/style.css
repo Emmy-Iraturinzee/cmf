@@ -408,9 +408,13 @@ header .logo-mobile {
 }
 @media screen and (max-width: 768px) {
   #hero-sec-text{
+
   
 font-size: 40px!important;
 margin-top: 50px!important;
+  }
+  .counter{
+    font-size: 40px!important;
   }
   #menu-btn{
 color: black!important;
